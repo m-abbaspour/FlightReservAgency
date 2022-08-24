@@ -32,3 +32,11 @@ Users are able to:
 ![image](https://user-images.githubusercontent.com/89539144/186458429-6251ce01-da95-4a2d-ac4f-ede1b196c2ba.png)
 ![image](https://user-images.githubusercontent.com/89539144/186458405-a4bf8f19-becf-47dc-a452-ccc3c276660d.png)
 ![image](https://user-images.githubusercontent.com/89539144/186458147-c6af4637-570d-470d-8d9c-7bbbcf7d1061.png)
+
+----------------
+To run the program open the Assignmnet2.jar file
+
+<code>java -jar Assignment2.jar</code>
+
+----------
+Created: March 2022
